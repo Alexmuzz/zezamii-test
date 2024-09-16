@@ -1,4 +1,3 @@
-```markdown
 # Database Management
 
 ## 1. Database Design
@@ -239,5 +238,4 @@ GROUP BY
     Customers.CustomerID,
     Customers.FirstName,
     Customers.LastName;
-```
 ```
